@@ -4,3 +4,4 @@ def sum(a,b):
 def resta(a,+):
     return a-b
 
+clase
