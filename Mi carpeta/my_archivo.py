@@ -5,3 +5,5 @@ def resta(a,+):
     return a-b
 
 clase
+def div(a,b):
+    retur a/b
